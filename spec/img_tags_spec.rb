@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 
 RSpec.describe 'index.html' do
   it 'contains an initial <img> tag with a src attribute' do
